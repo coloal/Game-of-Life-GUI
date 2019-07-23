@@ -10,9 +10,11 @@ Once we execute it, we will see a sample little window called 'Juega de la vida'
 ![GUI example](https://github.com/coloal/Game-of-Life-GUI-/blob/master/VentanaSimulador.png)
 
 ## Example of execution
-Here can see the window where we can observe the simulation of the Game of Life, and another simulation where is shown the Life evolution of the Game, graphically and numerically.
+Here we can see the window where we can observe the simulation of the Game of Life, and another window where is shown the Life evolution of the Game, graphically and numerically.
 
+### Initialization
 ![Initialization example](https://github.com/coloal/Game-of-Life-GUI-/blob/master/ExampleOfInitialization.png)
 
+### Execution
 ![Execution example](https://github.com/coloal/Game-of-Life-GUI-/blob/master/ExampleOfExecution.png)
 
