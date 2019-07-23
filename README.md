@@ -5,7 +5,7 @@ To compile:
  To execute:
   java Simulatore
   
-Once we execute it, we will see a sample little window called 'Juega de la vida'(Game of Life, in spanish). In this window if we push the botton 'Crear vida'(Create life, in spanish) we will create the initial pane in the game of life, and to begin the execution we just have to push 'iniciar simulacion'(begin simulation, in spanish). If we want to modify the default dimension of the pane we just have to input the desired dimension in the box named 'dimension'. As it is a parallel it is implemented a calculation of the SpeedUp.
+Once we execute it, we will see a sample little window called 'Juega de la vida'(Game of Life, in spanish). In this window if we push the botton 'Crear vida'('Create life', in spanish) we will create the initial pane in the game of life, and to begin the execution we just have to push 'iniciar simulacion'('begin simulation', in spanish). If we want to modify the default dimension of the pane we just have to input the desired dimension in the box named 'dimension'. As it is a parallel it is implemented a calculation of the SpeedUp. If we wanted to end the simulation we only had to push 'fin'('end', in spanish).
 
 ![GUI example](https://github.com/coloal/Game-of-Life-GUI-/blob/master/VentanaSimulador.png)
 
