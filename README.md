@@ -18,5 +18,5 @@ Here we can see the window where we can observe the simulation of the Game of Li
 ![Initialization example](https://github.com/coloal/Game-of-Life-GUI-/blob/master/ExampleOfInitialization.png)
 
 ### Execution
-![Execution example](https://github.com/coloal/Game-of-Life-GUI-/blob/master/ExampleOfExecution.png)
+![Execution example](https://github.com/coloal/Game-of-Life-GUI/blob/master/ConwayExecution.gif)
 
